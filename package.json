@@ -1,0 +1,64 @@
+{
+  "name": "my-webpack-project",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@uniswap/widgets": "^2.51.2",
+    "@web3-react/core": "^8.2.0",
+    "aos": "^2.3.4",
+    "apexcharts": "^3.40.0",
+    "axios": "^1.4.0",
+    "ci": "^2.2.0",
+    "firebase": "^9.22.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-lazy-load-image-component": "^1.6.0",
+    "react-preloaders": "^3.0.3",
+    "react-redux": "^8.0.7",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "5.0.1",
+    "react-social-icons": "^5.15.0",
+    "react-spinners": "^0.13.8",
+    "react-twitter-embed": "^4.0.4",
+    "react-twitter-widgets": "^1.11.0",
+    "web-vitals": "^2.1.4",
+    "web3modal": "^1.9.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
